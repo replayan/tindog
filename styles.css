@@ -83,7 +83,7 @@ button {
 }
 
 #title img {
-  width: 320px;
+  /* width: 320px; */
   transform: rotate(25deg);
   position: absolute;
   right: 25%;
